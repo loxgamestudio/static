@@ -8,7 +8,8 @@ var defaultLanguage = english; // Select a language as a default language when c
 // To make language names short, we're using a dictionary.
 var languageDictionary = {
     "en": english,
-    "tr": turkish
+    "tr": turkish,
+    "de": german
   };
 
 // Gets the specified language from the dictionary if exists.
